@@ -45,9 +45,9 @@ a {
     /* Fallback: assume this color ON TOP of image */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-size: 20%;
+    background-size: 30%;
     text-transform: uppercase;
-    -webkit-animation: scrollingbg 50s infinite linear 0s;
+    -webkit-animation: scrollingbg 130s infinite linear 0s;
 }
 
 @-webkit-keyframes scrollingbg {
